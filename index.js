@@ -1,7 +1,5 @@
 // Message generator
 
-const movies = ["Rocky", ]
-
 const rocky = ["Rocky Balboa", "Paulie", "Adrian", "Apollo Creed", "Mickey", "Mr. T", "Thunderlips", "Ivan Drago", "Tommy Gunn", "Mason Dixon"]
 
 let randomNumber1 = Math.floor(Math.random() * rocky.length)
