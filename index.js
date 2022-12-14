@@ -1,4 +1,4 @@
-// Message generator
+// Rocky (movies) random fighter generator
 
 const rocky = ["Rocky Balboa", "Paulie", "Adrian", "Apollo Creed", "Mickey", "Mr. T", "Thunderlips", "Ivan Drago", "Tommy Gunn", "Mason Dixon"]
 
