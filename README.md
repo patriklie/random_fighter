@@ -1,5 +1,5 @@
 # Random Fighter from Rocky Balboa generator!
-***
+
 ### The script does the following:
 * Has an array of characters from the Rocky Balboa movies.
 * Generates two random numbers based on the length of the array. 
